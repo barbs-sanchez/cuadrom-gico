@@ -1,2 +1,2 @@
-# cuadrom-gico
+# cuadromagico
 cuadro mágico de tarea
